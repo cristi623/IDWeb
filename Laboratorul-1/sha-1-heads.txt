@@ -1,0 +1,128 @@
+commit d1dc08422f762add84525950475e9df4bda41f61
+Merge: 90e30ae 9e9cd6b
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:29:58 2021 +0300
+
+    Merge branch 'javascript' into main
+
+commit 90e30ae67c92cb1cfa4795840cd8552f0b7c8303
+Merge: 0471290 35c3c2a
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:29:52 2021 +0300
+
+    Merge branch 'java' into main
+
+commit 04712909e7cdcf511506ac8c38d8c0389c9edae1
+Merge: adcad9b c6c687b
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:29:22 2021 +0300
+
+    Merge branch 'pascal' into main
+
+commit adcad9ba9e785167850ccdb73786a6d43f88e6f6
+Merge: 3ba1bc1 6a640ab
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:29:10 2021 +0300
+
+    Merge branch 'jquery' into main
+
+commit 3ba1bc1fc62a1aa9e1cafc053421ea14e6920cba
+Merge: af48fad dfd63ad
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:29:04 2021 +0300
+
+    Merge branch 'ruby' into main
+
+commit af48fad8cf6dfdcb8218553fc30fffb7675a6594
+Merge: b40aded 1439814
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:28:59 2021 +0300
+
+    Merge branch 'r' into main
+
+commit b40aded663495772bbdd797ffb162aa0a46efce8
+Merge: bd8939c c58a442
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:28:53 2021 +0300
+
+    Merge branch 'python' into main
+
+commit bd8939c50558c92a266c3a53ebb4c8e23ac770a1
+Merge: a48bc9a fc41780
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:28:46 2021 +0300
+
+    Merge branch 'c#' into main
+
+commit a48bc9aca2d60f4539c3d818fb469d7b0c7f2773
+Merge: 18c94a5 f16d3d6
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:28:17 2021 +0300
+
+    Merge branch 'c++' into main
+
+commit c6c687b8081ab56559382614b7b1b1f93886b02e
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:22:09 2021 +0300
+
+    pascal
+
+commit 6a640ab23a9cf28de14da8f3577d503e23f77c74
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:21:49 2021 +0300
+
+    jquery
+
+commit dfd63ad888cfa164519628d48a75aaf45b78be13
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:21:36 2021 +0300
+
+    ruby
+
+commit 14398149e0b49a16da516f572a216990b469cdb2
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:21:15 2021 +0300
+
+    r
+
+commit 9e9cd6b18d8660fc5b1143e3d965463b9f3979ff
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:20:47 2021 +0300
+
+    javascript
+
+commit 35c3c2aa23b0ef92e9a1e605df2f84c519539ff6
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:20:32 2021 +0300
+
+    java
+
+commit fc41780a30e18ced3e690f159c9f2681889ed101
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:20:04 2021 +0300
+
+    c#
+
+commit f16d3d64028d72ed3133ba934c88c89154c9f515
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:19:46 2021 +0300
+
+    c++
+
+commit 18c94a53db3182daca7154fb2dca1313e2a6c703
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:19:17 2021 +0300
+
+    c
+
+commit c58a4429bc85bdeecf5c5e7c8f116845cee7f6fd
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 18:19:05 2021 +0300
+
+    python
+
+commit 4c5ebbaf0d830dd143468d52f2123f241e4fe117
+Author: Cristian <cristiborodin@gmail.com>
+Date:   Mon Sep 20 17:42:56 2021 +0300
+
+    my first commit
